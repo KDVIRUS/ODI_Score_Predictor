@@ -1,0 +1,4535 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-12-17'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: East London
+  dates:
+  - '2023-12-16'
+  gender: female
+  match_type: ODI
+  match_type_number: 1353
+  outcome:
+    winner: Bangladesh
+    by:
+      runs: 119
+  overs: 50
+  player_of_match:
+  - Murshida Khatun
+  players:
+    Bangladesh:
+    - Shamima Sultana
+    - Fargana Hoque
+    - Murshida Khatun
+    - Nigar Sultana
+    - Shorna Akter
+    - Nahida Akter
+    - Ritu Moni
+    - Rabeya Khan
+    - Fahima Khatun
+    - Marufa Akter
+    - Sultana Khatun
+    South Africa:
+    - L Wolvaardt
+    - T Brits
+    - A Bosch
+    - S Luus
+    - D Tucker
+    - N de Klerk
+    - E Marx
+    - S Jafta
+    - N Mlaba
+    - M Klaas
+    - A Khaka
+  registry:
+    people:
+      A Bosch: dcf0e8f4
+      A Khaka: 0d518f89
+      A Steenkamp: 89c62cf5
+      AM Sodumo: cc6850ec
+      D Tucker: 2b425403
+      E Marx: be592751
+      Fahima Khatun: 558cdd64
+      Fargana Hoque: 6e96c956
+      K Klaaste: 6cc1d918
+      L Wolvaardt: e60f81c9
+      Lata Mondal: 5bf87532
+      Lauren Agenbag: 40849abd
+      M Klaas: ce85fcaf
+      Marufa Akter: a50797a4
+      Murshida Khatun: 712bbd92
+      N Mlaba: 686362af
+      N de Klerk: ea544967
+      Nahida Akter: '66078174'
+      Nigar Sultana: 3827f6a2
+      Rabeya Khan: aaf037b1
+      Ritu Moni: ad3940a5
+      S Jafta: '34304210'
+      S Luus: 6d76bc23
+      SA Fritz: d15e60c8
+      Shamima Sultana: 724645f5
+      Shorna Akter: 89895ae1
+      Sultana Khatun: fb0c0bcc
+      T Brits: '06659caa'
+  teams:
+  - Bangladesh
+  - South Africa
+  toss:
+    winner: South Africa
+    decision: field
+  umpires:
+  - A Steenkamp
+  - Lauren Agenbag
+  venue: Buffalo Park, East London
+innings:
+- 1st innings:
+    team: Bangladesh
+    deliveries:
+    - 0.1:
+        non_striker: Fargana Hoque
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamima Sultana
+    - 0.2:
+        non_striker: Fargana Hoque
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamima Sultana
+    - 0.3:
+        non_striker: Fargana Hoque
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamima Sultana
+    - 0.4:
+        non_striker: Fargana Hoque
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamima Sultana
+    - 0.5:
+        non_striker: Fargana Hoque
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamima Sultana
+    - 0.6:
+        non_striker: Fargana Hoque
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shamima Sultana
+    - 1.1:
+        non_striker: Shamima Sultana
+        bowler: M Klaas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fargana Hoque
+    - 1.2:
+        non_striker: Shamima Sultana
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 1.3:
+        non_striker: Shamima Sultana
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 1.4:
+        non_striker: Shamima Sultana
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 1.5:
+        non_striker: Shamima Sultana
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fargana Hoque
+    - 1.6:
+        non_striker: Shamima Sultana
+        bowler: M Klaas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fargana Hoque
+    - 1.7:
+        non_striker: Shamima Sultana
+        bowler: M Klaas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fargana Hoque
+    - 1.8:
+        non_striker: Shamima Sultana
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 1.9:
+        non_striker: Shamima Sultana
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 2.1:
+        non_striker: Fargana Hoque
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamima Sultana
+    - 2.2:
+        non_striker: Shamima Sultana
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 2.3:
+        non_striker: Shamima Sultana
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 2.4:
+        non_striker: Shamima Sultana
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 2.5:
+        non_striker: Shamima Sultana
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 2.6:
+        non_striker: Shamima Sultana
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 3.1:
+        non_striker: Fargana Hoque
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamima Sultana
+    - 3.2:
+        non_striker: Fargana Hoque
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamima Sultana
+    - 3.3:
+        non_striker: Shamima Sultana
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fargana Hoque
+    - 3.4:
+        non_striker: Shamima Sultana
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fargana Hoque
+    - 3.5:
+        non_striker: Shamima Sultana
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 3.6:
+        non_striker: Shamima Sultana
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fargana Hoque
+    - 4.1:
+        non_striker: Fargana Hoque
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamima Sultana
+    - 4.2:
+        non_striker: Fargana Hoque
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shamima Sultana
+    - 4.3:
+        non_striker: Fargana Hoque
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamima Sultana
+    - 4.4:
+        non_striker: Fargana Hoque
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamima Sultana
+    - 4.5:
+        non_striker: Fargana Hoque
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamima Sultana
+    - 4.6:
+        non_striker: Fargana Hoque
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamima Sultana
+    - 5.1:
+        non_striker: Shamima Sultana
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fargana Hoque
+    - 5.2:
+        non_striker: Fargana Hoque
+        bowler: E Marx
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shamima Sultana
+    - 5.3:
+        non_striker: Fargana Hoque
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shamima Sultana
+    - 5.4:
+        non_striker: Fargana Hoque
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shamima Sultana
+    - 5.5:
+        non_striker: Fargana Hoque
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamima Sultana
+    - 5.6:
+        non_striker: Fargana Hoque
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamima Sultana
+    - 5.7:
+        non_striker: Shamima Sultana
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 6.1:
+        non_striker: Fargana Hoque
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamima Sultana
+    - 6.2:
+        non_striker: Shamima Sultana
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 6.3:
+        non_striker: Shamima Sultana
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fargana Hoque
+    - 6.4:
+        non_striker: Fargana Hoque
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamima Sultana
+    - 6.5:
+        non_striker: Fargana Hoque
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamima Sultana
+    - 6.6:
+        non_striker: Fargana Hoque
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamima Sultana
+    - 7.1:
+        non_striker: Shamima Sultana
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 7.2:
+        non_striker: Shamima Sultana
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fargana Hoque
+    - 7.3:
+        non_striker: Shamima Sultana
+        bowler: E Marx
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fargana Hoque
+    - 7.4:
+        non_striker: Shamima Sultana
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 7.5:
+        non_striker: Shamima Sultana
+        bowler: E Marx
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fargana Hoque
+    - 7.6:
+        non_striker: Shamima Sultana
+        bowler: E Marx
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fargana Hoque
+    - 7.7:
+        non_striker: Shamima Sultana
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fargana Hoque
+    - 7.8:
+        non_striker: Shamima Sultana
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 7.9:
+        non_striker: Shamima Sultana
+        bowler: E Marx
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fargana Hoque
+    - 7.10:
+        non_striker: Shamima Sultana
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 8.1:
+        non_striker: Fargana Hoque
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamima Sultana
+    - 8.2:
+        non_striker: Shamima Sultana
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fargana Hoque
+    - 8.3:
+        non_striker: Fargana Hoque
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamima Sultana
+    - 8.4:
+        non_striker: Fargana Hoque
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamima Sultana
+    - 8.5:
+        non_striker: Fargana Hoque
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shamima Sultana
+    - 8.6:
+        non_striker: Fargana Hoque
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamima Sultana
+    - 9.1:
+        non_striker: Shamima Sultana
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fargana Hoque
+    - 9.2:
+        non_striker: Fargana Hoque
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamima Sultana
+    - 9.3:
+        non_striker: Fargana Hoque
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamima Sultana
+    - 9.4:
+        non_striker: Fargana Hoque
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamima Sultana
+    - 9.5:
+        non_striker: Fargana Hoque
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shamima Sultana
+    - 9.6:
+        non_striker: Fargana Hoque
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamima Sultana
+    - 10.1:
+        non_striker: Shamima Sultana
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 10.2:
+        non_striker: Shamima Sultana
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 10.3:
+        non_striker: Shamima Sultana
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 10.4:
+        non_striker: Shamima Sultana
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fargana Hoque
+    - 10.5:
+        non_striker: Fargana Hoque
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamima Sultana
+    - 10.6:
+        non_striker: Shamima Sultana
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 11.1:
+        non_striker: Fargana Hoque
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamima Sultana
+    - 11.2:
+        non_striker: Fargana Hoque
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shamima Sultana
+    - 11.3:
+        non_striker: Fargana Hoque
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamima Sultana
+    - 11.4:
+        non_striker: Fargana Hoque
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamima Sultana
+    - 11.5:
+        non_striker: Fargana Hoque
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamima Sultana
+    - 11.6:
+        non_striker: Fargana Hoque
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamima Sultana
+    - 12.1:
+        non_striker: Shamima Sultana
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 12.2:
+        non_striker: Shamima Sultana
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 12.3:
+        non_striker: Shamima Sultana
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 12.4:
+        non_striker: Shamima Sultana
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 12.5:
+        non_striker: Shamima Sultana
+        bowler: A Khaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fargana Hoque
+    - 12.6:
+        non_striker: Shamima Sultana
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 12.7:
+        non_striker: Shamima Sultana
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 13.1:
+        non_striker: Fargana Hoque
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shamima Sultana
+    - 13.2:
+        non_striker: Fargana Hoque
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamima Sultana
+    - 13.3:
+        non_striker: Fargana Hoque
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamima Sultana
+    - 13.4:
+        non_striker: Fargana Hoque
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamima Sultana
+    - 13.5:
+        non_striker: Fargana Hoque
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamima Sultana
+    - 13.6:
+        non_striker: Fargana Hoque
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shamima Sultana
+    - 14.1:
+        non_striker: Fargana Hoque
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamima Sultana
+    - 14.2:
+        non_striker: Fargana Hoque
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shamima Sultana
+        wicket:
+          player_out: Shamima Sultana
+          fielders:
+          - S Jafta
+          kind: caught
+    - 14.3:
+        non_striker: Fargana Hoque
+        bowler: E Marx
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Murshida Khatun
+    - 14.4:
+        non_striker: Fargana Hoque
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 14.5:
+        non_striker: Fargana Hoque
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 14.6:
+        non_striker: Fargana Hoque
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 14.7:
+        non_striker: Fargana Hoque
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 15.1:
+        non_striker: Murshida Khatun
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 15.2:
+        non_striker: Murshida Khatun
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fargana Hoque
+    - 15.3:
+        non_striker: Fargana Hoque
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Murshida Khatun
+    - 15.4:
+        non_striker: Murshida Khatun
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fargana Hoque
+    - 15.5:
+        non_striker: Fargana Hoque
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 15.6:
+        non_striker: Fargana Hoque
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 16.1:
+        non_striker: Murshida Khatun
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fargana Hoque
+    - 16.2:
+        non_striker: Fargana Hoque
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Murshida Khatun
+    - 16.3:
+        non_striker: Fargana Hoque
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 16.4:
+        non_striker: Fargana Hoque
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 16.5:
+        non_striker: Fargana Hoque
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 16.6:
+        non_striker: Fargana Hoque
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Murshida Khatun
+    - 17.1:
+        non_striker: Murshida Khatun
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 17.2:
+        non_striker: Murshida Khatun
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 17.3:
+        non_striker: Murshida Khatun
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 17.4:
+        non_striker: Murshida Khatun
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 17.5:
+        non_striker: Murshida Khatun
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fargana Hoque
+    - 17.6:
+        non_striker: Fargana Hoque
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Murshida Khatun
+    - 18.1:
+        non_striker: Fargana Hoque
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 18.2:
+        non_striker: Fargana Hoque
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Murshida Khatun
+    - 18.3:
+        non_striker: Fargana Hoque
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Murshida Khatun
+    - 18.4:
+        non_striker: Fargana Hoque
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 18.5:
+        non_striker: Fargana Hoque
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 18.6:
+        non_striker: Fargana Hoque
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Murshida Khatun
+    - 19.1:
+        non_striker: Murshida Khatun
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 19.2:
+        non_striker: Murshida Khatun
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 19.3:
+        non_striker: Murshida Khatun
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 19.4:
+        non_striker: Murshida Khatun
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 19.5:
+        non_striker: Murshida Khatun
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 19.6:
+        non_striker: Murshida Khatun
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fargana Hoque
+    - 20.1:
+        non_striker: Murshida Khatun
+        bowler: D Tucker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fargana Hoque
+    - 20.2:
+        non_striker: Murshida Khatun
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fargana Hoque
+    - 20.3:
+        non_striker: Fargana Hoque
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 20.4:
+        non_striker: Fargana Hoque
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 20.5:
+        non_striker: Fargana Hoque
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Murshida Khatun
+    - 20.6:
+        non_striker: Murshida Khatun
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fargana Hoque
+    - 20.7:
+        non_striker: Fargana Hoque
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 21.1:
+        non_striker: Murshida Khatun
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 21.2:
+        non_striker: Murshida Khatun
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 21.3:
+        non_striker: Murshida Khatun
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 21.4:
+        non_striker: Murshida Khatun
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 21.5:
+        non_striker: Murshida Khatun
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 21.6:
+        non_striker: Murshida Khatun
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 22.1:
+        non_striker: Fargana Hoque
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 22.2:
+        non_striker: Fargana Hoque
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 22.3:
+        non_striker: Fargana Hoque
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Murshida Khatun
+    - 22.4:
+        non_striker: Murshida Khatun
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 22.5:
+        non_striker: Murshida Khatun
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 22.6:
+        non_striker: Murshida Khatun
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fargana Hoque
+    - 23.1:
+        non_striker: Murshida Khatun
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fargana Hoque
+    - 23.2:
+        non_striker: Fargana Hoque
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Murshida Khatun
+    - 23.3:
+        non_striker: Fargana Hoque
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 23.4:
+        non_striker: Fargana Hoque
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Murshida Khatun
+    - 23.5:
+        non_striker: Murshida Khatun
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fargana Hoque
+    - 23.6:
+        non_striker: Murshida Khatun
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 24.1:
+        non_striker: Fargana Hoque
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 24.2:
+        non_striker: Fargana Hoque
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Murshida Khatun
+    - 24.3:
+        non_striker: Murshida Khatun
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 24.4:
+        non_striker: Murshida Khatun
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 24.5:
+        non_striker: Murshida Khatun
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 24.6:
+        non_striker: Murshida Khatun
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 25.1:
+        non_striker: Fargana Hoque
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 25.2:
+        non_striker: Fargana Hoque
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 25.3:
+        non_striker: Fargana Hoque
+        bowler: N Mlaba
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Murshida Khatun
+    - 25.4:
+        non_striker: Murshida Khatun
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fargana Hoque
+    - 25.5:
+        non_striker: Fargana Hoque
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 25.6:
+        non_striker: Fargana Hoque
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Murshida Khatun
+    - 25.7:
+        non_striker: Fargana Hoque
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 26.1:
+        non_striker: Murshida Khatun
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 26.2:
+        non_striker: Murshida Khatun
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 26.3:
+        non_striker: Murshida Khatun
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 26.4:
+        non_striker: Murshida Khatun
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+        wicket:
+          player_out: Fargana Hoque
+          fielders:
+          - E Marx
+          kind: caught
+    - 26.5:
+        non_striker: Murshida Khatun
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 26.6:
+        non_striker: Murshida Khatun
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 27.1:
+        non_striker: Nigar Sultana
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Murshida Khatun
+    - 27.2:
+        non_striker: Murshida Khatun
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 27.3:
+        non_striker: Murshida Khatun
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 27.4:
+        non_striker: Murshida Khatun
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 27.5:
+        non_striker: Murshida Khatun
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 27.6:
+        non_striker: Murshida Khatun
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 28.1:
+        non_striker: Murshida Khatun
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 28.2:
+        non_striker: Murshida Khatun
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 28.3:
+        non_striker: Nigar Sultana
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 28.4:
+        non_striker: Nigar Sultana
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 28.5:
+        non_striker: Nigar Sultana
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 28.6:
+        non_striker: Nigar Sultana
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 29.1:
+        non_striker: Murshida Khatun
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 29.2:
+        non_striker: Nigar Sultana
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Murshida Khatun
+    - 29.3:
+        non_striker: Nigar Sultana
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Murshida Khatun
+    - 29.4:
+        non_striker: Murshida Khatun
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 29.5:
+        non_striker: Murshida Khatun
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 29.6:
+        non_striker: Nigar Sultana
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 30.1:
+        non_striker: Murshida Khatun
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 30.2:
+        non_striker: Murshida Khatun
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 30.3:
+        non_striker: Nigar Sultana
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Murshida Khatun
+    - 30.4:
+        non_striker: Murshida Khatun
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 30.5:
+        non_striker: Murshida Khatun
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 30.6:
+        non_striker: Murshida Khatun
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 31.1:
+        non_striker: Nigar Sultana
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 31.2:
+        non_striker: Nigar Sultana
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Murshida Khatun
+    - 31.3:
+        non_striker: Murshida Khatun
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 31.4:
+        non_striker: Murshida Khatun
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 31.5:
+        non_striker: Murshida Khatun
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 31.6:
+        non_striker: Murshida Khatun
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 32.1:
+        non_striker: Nigar Sultana
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 32.2:
+        non_striker: Nigar Sultana
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Murshida Khatun
+    - 32.3:
+        non_striker: Murshida Khatun
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 32.4:
+        non_striker: Murshida Khatun
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nigar Sultana
+    - 32.5:
+        non_striker: Murshida Khatun
+        bowler: D Tucker
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Nigar Sultana
+    - 32.6:
+        non_striker: Nigar Sultana
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 32.7:
+        non_striker: Nigar Sultana
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Murshida Khatun
+    - 33.1:
+        non_striker: Murshida Khatun
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 33.2:
+        non_striker: Murshida Khatun
+        bowler: M Klaas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nigar Sultana
+    - 33.3:
+        non_striker: Murshida Khatun
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 33.4:
+        non_striker: Nigar Sultana
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Murshida Khatun
+    - 33.5:
+        non_striker: Nigar Sultana
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 33.6:
+        non_striker: Nigar Sultana
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 33.7:
+        non_striker: Nigar Sultana
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Murshida Khatun
+    - 34.1:
+        non_striker: Nigar Sultana
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 34.2:
+        non_striker: Nigar Sultana
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 34.3:
+        non_striker: Nigar Sultana
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 34.4:
+        non_striker: Nigar Sultana
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Murshida Khatun
+    - 34.5:
+        non_striker: Murshida Khatun
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 34.6:
+        non_striker: Murshida Khatun
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Nigar Sultana
+    - 35.1:
+        non_striker: Murshida Khatun
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 35.2:
+        non_striker: Murshida Khatun
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 35.3:
+        non_striker: Murshida Khatun
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 35.4:
+        non_striker: Murshida Khatun
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 35.5:
+        non_striker: Murshida Khatun
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 35.6:
+        non_striker: Murshida Khatun
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 36.1:
+        non_striker: Murshida Khatun
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nigar Sultana
+    - 36.2:
+        non_striker: Murshida Khatun
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 36.3:
+        non_striker: Murshida Khatun
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nigar Sultana
+    - 36.4:
+        non_striker: Murshida Khatun
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nigar Sultana
+    - 36.5:
+        non_striker: Murshida Khatun
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 36.6:
+        non_striker: Murshida Khatun
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 37.1:
+        non_striker: Murshida Khatun
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nigar Sultana
+    - 37.2:
+        non_striker: Murshida Khatun
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 37.3:
+        non_striker: Nigar Sultana
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Murshida Khatun
+    - 37.4:
+        non_striker: Nigar Sultana
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 37.5:
+        non_striker: Nigar Sultana
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 37.6:
+        non_striker: Nigar Sultana
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 38.1:
+        non_striker: Murshida Khatun
+        bowler: D Tucker
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nigar Sultana
+    - 38.2:
+        non_striker: Murshida Khatun
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 38.3:
+        non_striker: Murshida Khatun
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 38.4:
+        non_striker: Nigar Sultana
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 38.5:
+        non_striker: Nigar Sultana
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 38.6:
+        non_striker: Nigar Sultana
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Murshida Khatun
+    - 38.7:
+        non_striker: Nigar Sultana
+        bowler: D Tucker
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Murshida Khatun
+    - 39.1:
+        non_striker: Nigar Sultana
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 39.2:
+        non_striker: Nigar Sultana
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 39.3:
+        non_striker: Nigar Sultana
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Murshida Khatun
+    - 39.4:
+        non_striker: Murshida Khatun
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nigar Sultana
+    - 39.5:
+        non_striker: Murshida Khatun
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 39.6:
+        non_striker: Nigar Sultana
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Murshida Khatun
+    - 40.1:
+        non_striker: Nigar Sultana
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Murshida Khatun
+    - 40.2:
+        non_striker: Nigar Sultana
+        bowler: E Marx
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Murshida Khatun
+    - 40.3:
+        non_striker: Nigar Sultana
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Murshida Khatun
+    - 40.4:
+        non_striker: Murshida Khatun
+        bowler: E Marx
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nigar Sultana
+    - 40.5:
+        non_striker: Murshida Khatun
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 40.6:
+        non_striker: Nigar Sultana
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 40.7:
+        non_striker: Nigar Sultana
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Murshida Khatun
+    - 40.8:
+        non_striker: Murshida Khatun
+        bowler: E Marx
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 41.1:
+        non_striker: Murshida Khatun
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+        wicket:
+          player_out: Nigar Sultana
+          kind: caught and bowled
+    - 41.2:
+        non_striker: Murshida Khatun
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shorna Akter
+    - 41.3:
+        non_striker: Murshida Khatun
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shorna Akter
+    - 41.4:
+        non_striker: Murshida Khatun
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shorna Akter
+    - 41.5:
+        non_striker: Murshida Khatun
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shorna Akter
+    - 41.6:
+        non_striker: Murshida Khatun
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shorna Akter
+    - 42.1:
+        non_striker: Shorna Akter
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Murshida Khatun
+    - 42.2:
+        non_striker: Murshida Khatun
+        bowler: A Khaka
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Shorna Akter
+    - 42.3:
+        non_striker: Shorna Akter
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Murshida Khatun
+    - 42.4:
+        non_striker: Murshida Khatun
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shorna Akter
+    - 42.5:
+        non_striker: Shorna Akter
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 42.6:
+        non_striker: Shorna Akter
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Murshida Khatun
+    - 42.7:
+        non_striker: Shorna Akter
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Murshida Khatun
+    - 43.1:
+        non_striker: Shorna Akter
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 43.2:
+        non_striker: Shorna Akter
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Murshida Khatun
+    - 43.3:
+        non_striker: Murshida Khatun
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shorna Akter
+    - 43.4:
+        non_striker: Murshida Khatun
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shorna Akter
+    - 43.5:
+        non_striker: Shorna Akter
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Murshida Khatun
+    - 43.6:
+        non_striker: Murshida Khatun
+        bowler: N Mlaba
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shorna Akter
+    - 44.1:
+        non_striker: Murshida Khatun
+        bowler: M Klaas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shorna Akter
+    - 44.2:
+        non_striker: Murshida Khatun
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shorna Akter
+    - 44.3:
+        non_striker: Murshida Khatun
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shorna Akter
+    - 44.4:
+        non_striker: Shorna Akter
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 44.5:
+        non_striker: Shorna Akter
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Murshida Khatun
+    - 44.6:
+        non_striker: Murshida Khatun
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shorna Akter
+    - 44.7:
+        non_striker: Murshida Khatun
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shorna Akter
+    - 45.1:
+        non_striker: Shorna Akter
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Murshida Khatun
+    - 45.2:
+        non_striker: Murshida Khatun
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shorna Akter
+    - 45.3:
+        non_striker: Shorna Akter
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Murshida Khatun
+    - 45.4:
+        non_striker: Shorna Akter
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Murshida Khatun
+    - 45.5:
+        non_striker: Murshida Khatun
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shorna Akter
+    - 45.6:
+        non_striker: Murshida Khatun
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shorna Akter
+    - 46.1:
+        non_striker: Shorna Akter
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 46.2:
+        non_striker: Shorna Akter
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Murshida Khatun
+    - 46.3:
+        non_striker: Shorna Akter
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Murshida Khatun
+    - 46.4:
+        non_striker: Murshida Khatun
+        bowler: A Khaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shorna Akter
+    - 46.5:
+        non_striker: Murshida Khatun
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shorna Akter
+    - 46.6:
+        non_striker: Shorna Akter
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Murshida Khatun
+    - 46.7:
+        non_striker: Shorna Akter
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 47.1:
+        non_striker: Murshida Khatun
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shorna Akter
+    - 47.2:
+        non_striker: Shorna Akter
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Murshida Khatun
+    - 47.3:
+        non_striker: Murshida Khatun
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shorna Akter
+    - 47.4:
+        non_striker: Murshida Khatun
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shorna Akter
+    - 47.5:
+        non_striker: Shorna Akter
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Murshida Khatun
+    - 47.6:
+        non_striker: Murshida Khatun
+        bowler: N de Klerk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shorna Akter
+    - 48.1:
+        non_striker: Murshida Khatun
+        bowler: A Khaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Shorna Akter
+    - 48.2:
+        non_striker: Shorna Akter
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 48.3:
+        non_striker: Shorna Akter
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Murshida Khatun
+    - 48.4:
+        non_striker: Shorna Akter
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Murshida Khatun
+    - 48.5:
+        non_striker: Murshida Khatun
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shorna Akter
+    - 48.6:
+        non_striker: Shorna Akter
+        bowler: A Khaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 49.1:
+        non_striker: Murshida Khatun
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shorna Akter
+    - 49.2:
+        non_striker: Murshida Khatun
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shorna Akter
+    - 49.3:
+        non_striker: Shorna Akter
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Murshida Khatun
+    - 49.4:
+        non_striker: Murshida Khatun
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shorna Akter
+    - 49.5:
+        non_striker: Murshida Khatun
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shorna Akter
+    - 49.6:
+        non_striker: Murshida Khatun
+        bowler: M Klaas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shorna Akter
+    - 49.7:
+        non_striker: Murshida Khatun
+        bowler: M Klaas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shorna Akter
+- 2nd innings:
+    team: South Africa
+    deliveries:
+    - 0.1:
+        non_striker: T Brits
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 0.2:
+        non_striker: T Brits
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Wolvaardt
+    - 0.3:
+        non_striker: L Wolvaardt
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 0.4:
+        non_striker: L Wolvaardt
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 0.5:
+        non_striker: L Wolvaardt
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Brits
+    - 0.6:
+        non_striker: L Wolvaardt
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+    - 1.1:
+        non_striker: T Brits
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 1.2:
+        non_striker: T Brits
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+    - 1.3:
+        non_striker: T Brits
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Wolvaardt
+    - 1.4:
+        non_striker: T Brits
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Wolvaardt
+        wicket:
+          player_out: L Wolvaardt
+          fielders:
+          - Nigar Sultana
+          kind: caught
+    - 1.5:
+        non_striker: T Brits
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 1.6:
+        non_striker: T Brits
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 2.1:
+        non_striker: A Bosch
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Brits
+        wicket:
+          player_out: T Brits
+          kind: lbw
+    - 2.2:
+        non_striker: A Bosch
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 2.3:
+        non_striker: A Bosch
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 2.4:
+        non_striker: S Luus
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bosch
+    - 2.5:
+        non_striker: A Bosch
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 2.6:
+        non_striker: A Bosch
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 3.1:
+        non_striker: S Luus
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 3.2:
+        non_striker: S Luus
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bosch
+    - 3.3:
+        non_striker: A Bosch
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 3.4:
+        non_striker: A Bosch
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 3.5:
+        non_striker: S Luus
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 3.6:
+        non_striker: S Luus
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bosch
+    - 4.1:
+        non_striker: S Luus
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 4.2:
+        non_striker: S Luus
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 4.3:
+        non_striker: S Luus
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bosch
+    - 4.4:
+        non_striker: A Bosch
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 4.5:
+        non_striker: A Bosch
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 4.6:
+        non_striker: A Bosch
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 5.1:
+        non_striker: S Luus
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 5.2:
+        non_striker: S Luus
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 5.3:
+        non_striker: S Luus
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bosch
+    - 5.4:
+        non_striker: A Bosch
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 5.5:
+        non_striker: S Luus
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 5.6:
+        non_striker: S Luus
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 6.1:
+        non_striker: A Bosch
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Luus
+    - 6.2:
+        non_striker: A Bosch
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 6.3:
+        non_striker: A Bosch
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 6.4:
+        non_striker: A Bosch
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 6.5:
+        non_striker: S Luus
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bosch
+    - 6.6:
+        non_striker: A Bosch
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 7.1:
+        non_striker: S Luus
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 7.2:
+        non_striker: S Luus
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 7.3:
+        non_striker: S Luus
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 7.4:
+        non_striker: S Luus
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Bosch
+    - 7.5:
+        non_striker: S Luus
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Bosch
+    - 7.6:
+        non_striker: S Luus
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 8.1:
+        non_striker: A Bosch
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 8.2:
+        non_striker: A Bosch
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Luus
+    - 8.3:
+        non_striker: A Bosch
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 8.4:
+        non_striker: A Bosch
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Luus
+    - 8.5:
+        non_striker: A Bosch
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 8.6:
+        non_striker: A Bosch
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 9.1:
+        non_striker: A Bosch
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 9.2:
+        non_striker: S Luus
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 9.3:
+        non_striker: S Luus
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bosch
+    - 9.4:
+        non_striker: A Bosch
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 9.5:
+        non_striker: S Luus
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bosch
+    - 9.6:
+        non_striker: A Bosch
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Luus
+    - 10.1:
+        non_striker: S Luus
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 10.2:
+        non_striker: S Luus
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bosch
+    - 10.3:
+        non_striker: A Bosch
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 10.4:
+        non_striker: S Luus
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Bosch
+    - 10.5:
+        non_striker: A Bosch
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 10.6:
+        non_striker: A Bosch
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Luus
+    - 11.1:
+        non_striker: S Luus
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 11.2:
+        non_striker: S Luus
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 11.3:
+        non_striker: S Luus
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 11.4:
+        non_striker: S Luus
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 11.5:
+        non_striker: S Luus
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 11.6:
+        non_striker: S Luus
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+    - 12.1:
+        non_striker: A Bosch
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 12.2:
+        non_striker: S Luus
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Bosch
+        wicket:
+          player_out: A Bosch
+          fielders:
+          - Nigar Sultana
+          kind: caught
+    - 12.3:
+        non_striker: S Luus
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Tucker
+    - 12.4:
+        non_striker: S Luus
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Tucker
+    - 12.5:
+        non_striker: S Luus
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Tucker
+    - 12.6:
+        non_striker: S Luus
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Tucker
+    - 13.1:
+        non_striker: D Tucker
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 13.2:
+        non_striker: S Luus
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Tucker
+    - 13.3:
+        non_striker: D Tucker
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 13.4:
+        non_striker: S Luus
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Tucker
+    - 13.5:
+        non_striker: D Tucker
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 13.6:
+        non_striker: D Tucker
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 14.1:
+        non_striker: D Tucker
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 14.2:
+        non_striker: S Luus
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Tucker
+    - 14.3:
+        non_striker: S Luus
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Tucker
+    - 14.4:
+        non_striker: S Luus
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Tucker
+    - 14.5:
+        non_striker: S Luus
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Tucker
+    - 14.6:
+        non_striker: D Tucker
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 15.1:
+        non_striker: S Luus
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Tucker
+    - 15.2:
+        non_striker: S Luus
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Tucker
+    - 15.3:
+        non_striker: S Luus
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Tucker
+    - 15.4:
+        non_striker: D Tucker
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+    - 15.5:
+        non_striker: D Tucker
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 15.6:
+        non_striker: S Luus
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Tucker
+    - 16.1:
+        non_striker: D Tucker
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Luus
+    - 16.2:
+        non_striker: S Luus
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Tucker
+    - 16.3:
+        non_striker: D Tucker
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Luus
+        wicket:
+          player_out: S Luus
+          fielders:
+          - Lata Mondal (sub)
+          kind: caught
+    - 16.4:
+        non_striker: D Tucker
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N de Klerk
+    - 16.5:
+        non_striker: D Tucker
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N de Klerk
+    - 16.6:
+        non_striker: D Tucker
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N de Klerk
+    - 17.1:
+        non_striker: D Tucker
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N de Klerk
+        wicket:
+          player_out: N de Klerk
+          kind: bowled
+    - 17.2:
+        non_striker: D Tucker
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Marx
+    - 17.3:
+        non_striker: D Tucker
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Marx
+    - 17.4:
+        non_striker: D Tucker
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Marx
+    - 17.5:
+        non_striker: D Tucker
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Marx
+    - 17.6:
+        non_striker: E Marx
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Tucker
+    - 18.1:
+        non_striker: D Tucker
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Marx
+    - 18.2:
+        non_striker: E Marx
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Tucker
+    - 18.3:
+        non_striker: E Marx
+        bowler: Nahida Akter
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Tucker
+    - 18.4:
+        non_striker: E Marx
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Tucker
+    - 18.5:
+        non_striker: D Tucker
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Marx
+    - 18.6:
+        non_striker: D Tucker
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Marx
+    - 18.7:
+        non_striker: E Marx
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Tucker
+    - 19.1:
+        non_striker: D Tucker
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Marx
+    - 19.2:
+        non_striker: E Marx
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Tucker
+    - 19.3:
+        non_striker: E Marx
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Tucker
+        wicket:
+          player_out: D Tucker
+          fielders:
+          - Nigar Sultana
+          kind: caught
+    - 19.4:
+        non_striker: E Marx
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jafta
+    - 19.5:
+        non_striker: E Marx
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jafta
+    - 19.6:
+        non_striker: E Marx
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Jafta
+    - 20.1:
+        non_striker: S Jafta
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Marx
+    - 20.2:
+        non_striker: S Jafta
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Marx
+    - 20.3:
+        non_striker: S Jafta
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Marx
+    - 20.4:
+        non_striker: S Jafta
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Marx
+    - 20.5:
+        non_striker: E Marx
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jafta
+    - 20.6:
+        non_striker: E Marx
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jafta
+    - 21.1:
+        non_striker: S Jafta
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Marx
+    - 21.2:
+        non_striker: E Marx
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jafta
+    - 21.3:
+        non_striker: S Jafta
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Marx
+    - 21.4:
+        non_striker: S Jafta
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Marx
+    - 21.5:
+        non_striker: E Marx
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jafta
+    - 21.6:
+        non_striker: E Marx
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jafta
+    - 22.1:
+        non_striker: S Jafta
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Marx
+    - 22.2:
+        non_striker: S Jafta
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Marx
+    - 22.3:
+        non_striker: E Marx
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jafta
+    - 22.4:
+        non_striker: E Marx
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jafta
+    - 22.5:
+        non_striker: S Jafta
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Marx
+    - 22.6:
+        non_striker: S Jafta
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Marx
+    - 23.1:
+        non_striker: S Jafta
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Marx
+    - 23.2:
+        non_striker: S Jafta
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Marx
+    - 23.3:
+        non_striker: S Jafta
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Marx
+    - 23.4:
+        non_striker: E Marx
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jafta
+    - 23.5:
+        non_striker: E Marx
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Jafta
+    - 23.6:
+        non_striker: E Marx
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Jafta
+    - 24.1:
+        non_striker: S Jafta
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Marx
+    - 24.2:
+        non_striker: S Jafta
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Marx
+    - 24.3:
+        non_striker: S Jafta
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Marx
+    - 24.4:
+        non_striker: E Marx
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jafta
+    - 24.5:
+        non_striker: E Marx
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jafta
+    - 24.6:
+        non_striker: E Marx
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jafta
+    - 25.1:
+        non_striker: S Jafta
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Marx
+    - 25.2:
+        non_striker: S Jafta
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Marx
+    - 25.3:
+        non_striker: S Jafta
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Marx
+    - 25.4:
+        non_striker: S Jafta
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Marx
+    - 25.5:
+        non_striker: S Jafta
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Marx
+    - 25.6:
+        non_striker: S Jafta
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Marx
+    - 26.1:
+        non_striker: E Marx
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jafta
+    - 26.2:
+        non_striker: S Jafta
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Marx
+    - 26.3:
+        non_striker: E Marx
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jafta
+    - 26.4:
+        non_striker: E Marx
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jafta
+        wicket:
+          player_out: S Jafta
+          kind: bowled
+    - 26.5:
+        non_striker: E Marx
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Mlaba
+        wicket:
+          player_out: N Mlaba
+          fielders:
+          - Nahida Akter
+          kind: caught
+    - 26.6:
+        non_striker: E Marx
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Klaas
+    - 27.1:
+        non_striker: M Klaas
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Marx
+    - 27.2:
+        non_striker: M Klaas
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Marx
+    - 27.3:
+        non_striker: E Marx
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Klaas
+    - 27.4:
+        non_striker: E Marx
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Klaas
+    - 27.5:
+        non_striker: E Marx
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Klaas
+    - 27.6:
+        non_striker: E Marx
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Klaas
+    - 28.1:
+        non_striker: M Klaas
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Marx
+    - 28.2:
+        non_striker: E Marx
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Klaas
+    - 28.3:
+        non_striker: E Marx
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Klaas
+    - 28.4:
+        non_striker: E Marx
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Klaas
+    - 28.5:
+        non_striker: E Marx
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Klaas
+    - 28.6:
+        non_striker: E Marx
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Klaas
+    - 29.1:
+        non_striker: M Klaas
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Marx
+    - 29.2:
+        non_striker: M Klaas
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Marx
+    - 29.3:
+        non_striker: E Marx
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Klaas
+    - 29.4:
+        non_striker: E Marx
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Klaas
+    - 29.5:
+        non_striker: E Marx
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Klaas
+    - 29.6:
+        non_striker: E Marx
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Klaas
+    - 30.1:
+        non_striker: M Klaas
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Marx
+    - 30.2:
+        non_striker: M Klaas
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Marx
+    - 30.3:
+        non_striker: M Klaas
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Marx
+    - 30.4:
+        non_striker: M Klaas
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Marx
+    - 30.5:
+        non_striker: E Marx
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Klaas
+    - 30.6:
+        non_striker: M Klaas
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Marx
+    - 31.1:
+        non_striker: E Marx
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Klaas
+    - 31.2:
+        non_striker: E Marx
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Klaas
+    - 31.3:
+        non_striker: E Marx
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Klaas
+    - 31.4:
+        non_striker: E Marx
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Klaas
+    - 31.5:
+        non_striker: M Klaas
+        bowler: Ritu Moni
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: E Marx
+    - 31.6:
+        non_striker: E Marx
+        bowler: Ritu Moni
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: M Klaas
+    - 31.7:
+        non_striker: E Marx
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Klaas
+    - 32.1:
+        non_striker: M Klaas
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Marx
+    - 32.2:
+        non_striker: M Klaas
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Marx
+    - 32.3:
+        non_striker: M Klaas
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Marx
+    - 32.4:
+        non_striker: M Klaas
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Marx
+    - 32.5:
+        non_striker: M Klaas
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Marx
+    - 32.6:
+        non_striker: M Klaas
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Marx
+    - 33.1:
+        non_striker: E Marx
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Klaas
+    - 33.2:
+        non_striker: E Marx
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Klaas
+    - 33.3:
+        non_striker: E Marx
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Klaas
+    - 33.4:
+        non_striker: E Marx
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Klaas
+    - 33.5:
+        non_striker: E Marx
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Klaas
+    - 33.6:
+        non_striker: M Klaas
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Marx
+    - 34.1:
+        non_striker: E Marx
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Klaas
+    - 34.2:
+        non_striker: E Marx
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Klaas
+    - 34.3:
+        non_striker: M Klaas
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: E Marx
+    - 34.4:
+        non_striker: M Klaas
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Marx
+    - 34.5:
+        non_striker: E Marx
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Klaas
+    - 34.6:
+        non_striker: M Klaas
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Marx
+    - 35.1:
+        non_striker: M Klaas
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: E Marx
+    - 35.2:
+        non_striker: M Klaas
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Marx
+    - 35.3:
+        non_striker: M Klaas
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: E Marx
+    - 35.4:
+        non_striker: E Marx
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Klaas
+        wicket:
+          player_out: M Klaas
+          fielders:
+          - Fahima Khatun
+          kind: caught
+    - 35.5:
+        non_striker: E Marx
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Khaka
+    - 35.6:
+        non_striker: E Marx
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Khaka
+    - 36.1:
+        non_striker: A Khaka
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Marx
+    - 36.2:
+        non_striker: A Khaka
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Marx
+    - 36.3:
+        non_striker: A Khaka
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Marx
+        wicket:
+          player_out: E Marx
+          fielders:
+          - Nigar Sultana
+          kind: stumped

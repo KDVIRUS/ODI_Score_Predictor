@@ -1,0 +1,5152 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-12-15'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Christchurch
+  dates:
+  - '2023-12-15'
+  gender: female
+  match_type: ODI
+  match_type_number: 1352
+  outcome:
+    winner: New Zealand
+    by:
+      wickets: 1
+  overs: 50
+  player_of_match:
+  - ML Green
+  players:
+    Pakistan:
+    - Muneeba Ali
+    - Sidra Ameen
+    - Bismah Maroof
+    - Aliya Riaz
+    - Natalia Pervaiz
+    - Fatima Sana
+    - Najiha Alvi
+    - Umm-e-Hani
+    - Nashra Sandhu
+    - Sadia Iqbal
+    - Ghulam Fatima
+    New Zealand:
+    - SW Bates
+    - AC Kerr
+    - SFM Devine
+    - ML Green
+    - GE Plimmer
+    - IC Gaze
+    - HM Rowe
+    - B Bezuidenhout
+    - LMM Tahuhu
+    - MM Penfold
+    - FC Jonas
+  registry:
+    people:
+      AC Kerr: 7673c908
+      Aliya Riaz: 2904b4b6
+      B Bezuidenhout: 564afdcf
+      Bismah Maroof: 3b770527
+      C High: ed55e0da
+      FC Jonas: 6df697a9
+      Fatima Sana: ea9c54de
+      GE Plimmer: 575494db
+      Ghulam Fatima: 3d689960
+      HM Rowe: 8ca1f93a
+      IC Gaze: 60c250bf
+      JM Dempsey: 153c9f33
+      KS Jagannathan: 9bc8dcec
+      Kim Cotton: 67a7c2ee
+      LMM Tahuhu: '60471339'
+      ML Green: 865eae1f
+      MM Penfold: 645b2a2f
+      Muneeba Ali: 86fdf668
+      Najiha Alvi: faef39c1
+      Nashra Sandhu: c981d3c2
+      Natalia Pervaiz: fa8a3eb0
+      SFM Devine: de69af96
+      SW Bates: 89bbc67a
+      Sadia Iqbal: 53bb50f0
+      Sidra Ameen: 72c9ad99
+      TL Anderson: f52ddf8d
+      Umm-e-Hani: 6ee11109
+  teams:
+  - Pakistan
+  - New Zealand
+  toss:
+    winner: New Zealand
+    decision: field
+  umpires:
+  - JM Dempsey
+  - KS Jagannathan
+  venue: Hagley Oval, Christchurch
+innings:
+- 1st innings:
+    team: Pakistan
+    deliveries:
+    - 0.1:
+        non_striker: Sidra Ameen
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+        wicket:
+          player_out: Muneeba Ali
+          fielders:
+          - AC Kerr
+          kind: caught
+    - 0.2:
+        non_striker: Sidra Ameen
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 0.3:
+        non_striker: Sidra Ameen
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 0.4:
+        non_striker: Sidra Ameen
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 0.5:
+        non_striker: Sidra Ameen
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 0.6:
+        non_striker: Sidra Ameen
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 1.1:
+        non_striker: Bismah Maroof
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 1.2:
+        non_striker: Bismah Maroof
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 1.3:
+        non_striker: Sidra Ameen
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 1.4:
+        non_striker: Bismah Maroof
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 1.5:
+        non_striker: Bismah Maroof
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 1.6:
+        non_striker: Bismah Maroof
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 2.1:
+        non_striker: Bismah Maroof
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 2.2:
+        non_striker: Bismah Maroof
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 2.3:
+        non_striker: Bismah Maroof
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Sidra Ameen
+    - 2.4:
+        non_striker: Sidra Ameen
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 2.5:
+        non_striker: Bismah Maroof
+        bowler: LMM Tahuhu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sidra Ameen
+    - 2.6:
+        non_striker: Bismah Maroof
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 2.7:
+        non_striker: Bismah Maroof
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 3.1:
+        non_striker: Bismah Maroof
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 3.2:
+        non_striker: Bismah Maroof
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 3.3:
+        non_striker: Bismah Maroof
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 3.4:
+        non_striker: Bismah Maroof
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 3.5:
+        non_striker: Bismah Maroof
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 3.6:
+        non_striker: Sidra Ameen
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 4.1:
+        non_striker: Bismah Maroof
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 4.2:
+        non_striker: Bismah Maroof
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 4.3:
+        non_striker: Bismah Maroof
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 4.4:
+        non_striker: Bismah Maroof
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 4.5:
+        non_striker: Bismah Maroof
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sidra Ameen
+    - 4.6:
+        non_striker: Bismah Maroof
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 5.1:
+        non_striker: Bismah Maroof
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sidra Ameen
+    - 5.2:
+        non_striker: Bismah Maroof
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 5.3:
+        non_striker: Bismah Maroof
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 5.4:
+        non_striker: Bismah Maroof
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+        wicket:
+          player_out: Sidra Ameen
+          fielders:
+          - LMM Tahuhu
+          kind: caught
+    - 5.5:
+        non_striker: Bismah Maroof
+        bowler: HM Rowe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aliya Riaz
+    - 5.6:
+        non_striker: Bismah Maroof
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 5.7:
+        non_striker: Bismah Maroof
+        bowler: HM Rowe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aliya Riaz
+    - 5.8:
+        non_striker: Bismah Maroof
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 6.1:
+        non_striker: Aliya Riaz
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 6.2:
+        non_striker: Bismah Maroof
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 6.3:
+        non_striker: Bismah Maroof
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 6.4:
+        non_striker: Bismah Maroof
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 6.5:
+        non_striker: Bismah Maroof
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 6.6:
+        non_striker: Bismah Maroof
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 7.1:
+        non_striker: Bismah Maroof
+        bowler: HM Rowe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aliya Riaz
+    - 7.2:
+        non_striker: Bismah Maroof
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 7.3:
+        non_striker: Bismah Maroof
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 7.4:
+        non_striker: Bismah Maroof
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 7.5:
+        non_striker: Bismah Maroof
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 7.6:
+        non_striker: Bismah Maroof
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 7.7:
+        non_striker: Bismah Maroof
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 8.1:
+        non_striker: Bismah Maroof
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 8.2:
+        non_striker: Bismah Maroof
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 8.3:
+        non_striker: Bismah Maroof
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aliya Riaz
+    - 8.4:
+        non_striker: Bismah Maroof
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 8.5:
+        non_striker: Bismah Maroof
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 8.6:
+        non_striker: Bismah Maroof
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 9.1:
+        non_striker: Bismah Maroof
+        bowler: SFM Devine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aliya Riaz
+    - 9.2:
+        non_striker: Bismah Maroof
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 9.3:
+        non_striker: Bismah Maroof
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 9.4:
+        non_striker: Bismah Maroof
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 9.5:
+        non_striker: Aliya Riaz
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 9.6:
+        non_striker: Bismah Maroof
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 9.7:
+        non_striker: Bismah Maroof
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 10.1:
+        non_striker: Aliya Riaz
+        bowler: MM Penfold
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Bismah Maroof
+    - 10.2:
+        non_striker: Aliya Riaz
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 10.3:
+        non_striker: Bismah Maroof
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 10.4:
+        non_striker: Aliya Riaz
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Bismah Maroof
+    - 10.5:
+        non_striker: Aliya Riaz
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 10.6:
+        non_striker: Aliya Riaz
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 10.7:
+        non_striker: Aliya Riaz
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+        wicket:
+          player_out: Bismah Maroof
+          fielders:
+          - LMM Tahuhu
+          kind: caught
+    - 11.1:
+        non_striker: Natalia Pervaiz
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 11.2:
+        non_striker: Natalia Pervaiz
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 11.3:
+        non_striker: Natalia Pervaiz
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 11.4:
+        non_striker: Natalia Pervaiz
+        bowler: SFM Devine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aliya Riaz
+    - 11.5:
+        non_striker: Natalia Pervaiz
+        bowler: SFM Devine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aliya Riaz
+    - 11.6:
+        non_striker: Natalia Pervaiz
+        bowler: SFM Devine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aliya Riaz
+    - 11.7:
+        non_striker: Natalia Pervaiz
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 11.8:
+        non_striker: Natalia Pervaiz
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 11.9:
+        non_striker: Natalia Pervaiz
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+        wicket:
+          player_out: Aliya Riaz
+          fielders:
+          - IC Gaze
+          kind: caught
+    - 12.1:
+        non_striker: Fatima Sana
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 12.2:
+        non_striker: Fatima Sana
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 12.3:
+        non_striker: Fatima Sana
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 12.4:
+        non_striker: Fatima Sana
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 12.5:
+        non_striker: Fatima Sana
+        bowler: MM Penfold
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Natalia Pervaiz
+    - 12.6:
+        non_striker: Fatima Sana
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 12.7:
+        non_striker: Fatima Sana
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 13.1:
+        non_striker: Natalia Pervaiz
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 13.2:
+        non_striker: Fatima Sana
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 13.3:
+        non_striker: Fatima Sana
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 13.4:
+        non_striker: Fatima Sana
+        bowler: SFM Devine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Natalia Pervaiz
+    - 13.5:
+        non_striker: Fatima Sana
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natalia Pervaiz
+    - 13.6:
+        non_striker: Natalia Pervaiz
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 13.7:
+        non_striker: Natalia Pervaiz
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 14.1:
+        non_striker: Fatima Sana
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natalia Pervaiz
+    - 14.2:
+        non_striker: Natalia Pervaiz
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 14.3:
+        non_striker: Natalia Pervaiz
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 14.4:
+        non_striker: Natalia Pervaiz
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 14.5:
+        non_striker: Fatima Sana
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 14.6:
+        non_striker: Fatima Sana
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 15.1:
+        non_striker: Natalia Pervaiz
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 15.2:
+        non_striker: Fatima Sana
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 15.3:
+        non_striker: Fatima Sana
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natalia Pervaiz
+    - 15.4:
+        non_striker: Natalia Pervaiz
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 15.5:
+        non_striker: Fatima Sana
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 15.6:
+        non_striker: Fatima Sana
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 16.1:
+        non_striker: Natalia Pervaiz
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fatima Sana
+    - 16.2:
+        non_striker: Natalia Pervaiz
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 16.3:
+        non_striker: Natalia Pervaiz
+        bowler: MM Penfold
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fatima Sana
+    - 16.4:
+        non_striker: Natalia Pervaiz
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 16.5:
+        non_striker: Fatima Sana
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 16.6:
+        non_striker: Fatima Sana
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 16.7:
+        non_striker: Fatima Sana
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 17.1:
+        non_striker: Natalia Pervaiz
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 17.2:
+        non_striker: Natalia Pervaiz
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 17.3:
+        non_striker: Natalia Pervaiz
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 17.4:
+        non_striker: Natalia Pervaiz
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 17.5:
+        non_striker: Natalia Pervaiz
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 17.6:
+        non_striker: Fatima Sana
+        bowler: FC Jonas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Natalia Pervaiz
+    - 17.7:
+        non_striker: Fatima Sana
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natalia Pervaiz
+    - 18.1:
+        non_striker: Fatima Sana
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natalia Pervaiz
+    - 18.2:
+        non_striker: Natalia Pervaiz
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 18.3:
+        non_striker: Natalia Pervaiz
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 18.4:
+        non_striker: Fatima Sana
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 18.5:
+        non_striker: Fatima Sana
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 18.6:
+        non_striker: Fatima Sana
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 19.1:
+        non_striker: Natalia Pervaiz
+        bowler: FC Jonas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Fatima Sana
+    - 19.2:
+        non_striker: Fatima Sana
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Natalia Pervaiz
+    - 19.3:
+        non_striker: Fatima Sana
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natalia Pervaiz
+    - 19.4:
+        non_striker: Natalia Pervaiz
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 19.5:
+        non_striker: Fatima Sana
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 19.6:
+        non_striker: Fatima Sana
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natalia Pervaiz
+    - 20.1:
+        non_striker: Fatima Sana
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 20.2:
+        non_striker: Fatima Sana
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          non_boundary: 1
+          total: 4
+          batsman: 4
+        batsman: Natalia Pervaiz
+    - 20.3:
+        non_striker: Fatima Sana
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 20.4:
+        non_striker: Fatima Sana
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 20.5:
+        non_striker: Fatima Sana
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 20.6:
+        non_striker: Fatima Sana
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 21.1:
+        non_striker: Natalia Pervaiz
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 21.2:
+        non_striker: Fatima Sana
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natalia Pervaiz
+    - 21.3:
+        non_striker: Natalia Pervaiz
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 21.4:
+        non_striker: Fatima Sana
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Natalia Pervaiz
+    - 21.5:
+        non_striker: Fatima Sana
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 21.6:
+        non_striker: Fatima Sana
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 22.1:
+        non_striker: Natalia Pervaiz
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 22.2:
+        non_striker: Fatima Sana
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Natalia Pervaiz
+    - 22.3:
+        non_striker: Natalia Pervaiz
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 22.4:
+        non_striker: Natalia Pervaiz
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 22.5:
+        non_striker: Fatima Sana
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 22.6:
+        non_striker: Fatima Sana
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 23.1:
+        non_striker: Natalia Pervaiz
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 23.2:
+        non_striker: Natalia Pervaiz
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 23.3:
+        non_striker: Natalia Pervaiz
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 23.4:
+        non_striker: Fatima Sana
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Natalia Pervaiz
+    - 23.5:
+        non_striker: Fatima Sana
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 23.6:
+        non_striker: Fatima Sana
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 24.1:
+        non_striker: Natalia Pervaiz
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 24.2:
+        non_striker: Natalia Pervaiz
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 24.3:
+        non_striker: Natalia Pervaiz
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 24.4:
+        non_striker: Natalia Pervaiz
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 24.5:
+        non_striker: Natalia Pervaiz
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fatima Sana
+    - 24.6:
+        non_striker: Natalia Pervaiz
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 25.1:
+        non_striker: Fatima Sana
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 25.2:
+        non_striker: Fatima Sana
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 25.3:
+        non_striker: Fatima Sana
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natalia Pervaiz
+    - 25.4:
+        non_striker: Natalia Pervaiz
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 25.5:
+        non_striker: Natalia Pervaiz
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 25.6:
+        non_striker: Natalia Pervaiz
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 26.1:
+        non_striker: Fatima Sana
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natalia Pervaiz
+    - 26.2:
+        non_striker: Natalia Pervaiz
+        bowler: HM Rowe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Fatima Sana
+    - 26.3:
+        non_striker: Fatima Sana
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 26.4:
+        non_striker: Fatima Sana
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 26.5:
+        non_striker: Fatima Sana
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 26.6:
+        non_striker: Fatima Sana
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 27.1:
+        non_striker: Natalia Pervaiz
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 27.2:
+        non_striker: Natalia Pervaiz
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 27.3:
+        non_striker: Natalia Pervaiz
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fatima Sana
+    - 27.4:
+        non_striker: Natalia Pervaiz
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 27.5:
+        non_striker: Natalia Pervaiz
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 27.6:
+        non_striker: Natalia Pervaiz
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 28.1:
+        non_striker: Natalia Pervaiz
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 28.2:
+        non_striker: Fatima Sana
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natalia Pervaiz
+    - 28.3:
+        non_striker: Natalia Pervaiz
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 28.4:
+        non_striker: Natalia Pervaiz
+        bowler: HM Rowe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fatima Sana
+    - 28.5:
+        non_striker: Natalia Pervaiz
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 28.6:
+        non_striker: Fatima Sana
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Natalia Pervaiz
+    - 28.7:
+        non_striker: Fatima Sana
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 29.1:
+        non_striker: Natalia Pervaiz
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 29.2:
+        non_striker: Natalia Pervaiz
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 29.3:
+        non_striker: Natalia Pervaiz
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fatima Sana
+    - 29.4:
+        non_striker: Natalia Pervaiz
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 29.5:
+        non_striker: Natalia Pervaiz
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 29.6:
+        non_striker: Natalia Pervaiz
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 30.1:
+        non_striker: Natalia Pervaiz
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 30.2:
+        non_striker: Fatima Sana
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 30.3:
+        non_striker: Fatima Sana
+        bowler: SFM Devine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Natalia Pervaiz
+    - 30.4:
+        non_striker: Fatima Sana
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 30.5:
+        non_striker: Fatima Sana
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 30.6:
+        non_striker: Fatima Sana
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Natalia Pervaiz
+    - 30.7:
+        non_striker: Fatima Sana
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 31.1:
+        non_striker: Natalia Pervaiz
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 31.2:
+        non_striker: Fatima Sana
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 31.3:
+        non_striker: Fatima Sana
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natalia Pervaiz
+    - 31.4:
+        non_striker: Natalia Pervaiz
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 31.5:
+        non_striker: Fatima Sana
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natalia Pervaiz
+    - 31.6:
+        non_striker: Natalia Pervaiz
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 32.1:
+        non_striker: Fatima Sana
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Natalia Pervaiz
+    - 32.2:
+        non_striker: Fatima Sana
+        bowler: SFM Devine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Natalia Pervaiz
+    - 32.3:
+        non_striker: Fatima Sana
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 32.4:
+        non_striker: Fatima Sana
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 32.5:
+        non_striker: Fatima Sana
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 32.6:
+        non_striker: Fatima Sana
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 32.7:
+        non_striker: Fatima Sana
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 33.1:
+        non_striker: Natalia Pervaiz
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fatima Sana
+    - 33.2:
+        non_striker: Natalia Pervaiz
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 33.3:
+        non_striker: Fatima Sana
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 33.4:
+        non_striker: Fatima Sana
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natalia Pervaiz
+    - 33.5:
+        non_striker: Natalia Pervaiz
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fatima Sana
+    - 33.6:
+        non_striker: Natalia Pervaiz
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 34.1:
+        non_striker: Fatima Sana
+        bowler: MM Penfold
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Natalia Pervaiz
+    - 34.2:
+        non_striker: Fatima Sana
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 34.3:
+        non_striker: Fatima Sana
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+        wicket:
+          player_out: Natalia Pervaiz
+          kind: lbw
+    - 34.4:
+        non_striker: Fatima Sana
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 34.5:
+        non_striker: Fatima Sana
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najiha Alvi
+    - 34.6:
+        non_striker: Najiha Alvi
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fatima Sana
+    - 34.7:
+        non_striker: Najiha Alvi
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 35.1:
+        non_striker: Fatima Sana
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 35.2:
+        non_striker: Fatima Sana
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najiha Alvi
+    - 35.3:
+        non_striker: Najiha Alvi
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 35.4:
+        non_striker: Fatima Sana
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 35.5:
+        non_striker: Fatima Sana
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 35.6:
+        non_striker: Fatima Sana
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najiha Alvi
+    - 36.1:
+        non_striker: Fatima Sana
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 36.2:
+        non_striker: Fatima Sana
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najiha Alvi
+    - 36.3:
+        non_striker: Najiha Alvi
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 36.4:
+        non_striker: Najiha Alvi
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 36.5:
+        non_striker: Najiha Alvi
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 36.6:
+        non_striker: Fatima Sana
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najiha Alvi
+    - 37.1:
+        non_striker: Fatima Sana
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najiha Alvi
+    - 37.2:
+        non_striker: Najiha Alvi
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 37.3:
+        non_striker: Najiha Alvi
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 37.4:
+        non_striker: Najiha Alvi
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 37.5:
+        non_striker: Najiha Alvi
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fatima Sana
+    - 37.6:
+        non_striker: Najiha Alvi
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 38.1:
+        non_striker: Najiha Alvi
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 38.2:
+        non_striker: Najiha Alvi
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 38.3:
+        non_striker: Fatima Sana
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najiha Alvi
+    - 38.4:
+        non_striker: Najiha Alvi
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 38.5:
+        non_striker: Najiha Alvi
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 38.6:
+        non_striker: Fatima Sana
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najiha Alvi
+    - 39.1:
+        non_striker: Fatima Sana
+        bowler: AC Kerr
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          wides: 4
+        batsman: Najiha Alvi
+    - 39.2:
+        non_striker: Najiha Alvi
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 39.3:
+        non_striker: Fatima Sana
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najiha Alvi
+    - 39.4:
+        non_striker: Najiha Alvi
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 39.5:
+        non_striker: Najiha Alvi
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 39.6:
+        non_striker: Fatima Sana
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najiha Alvi
+    - 39.7:
+        non_striker: Najiha Alvi
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fatima Sana
+    - 40.1:
+        non_striker: Fatima Sana
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 40.2:
+        non_striker: Fatima Sana
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najiha Alvi
+    - 40.3:
+        non_striker: Najiha Alvi
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fatima Sana
+    - 40.4:
+        non_striker: Najiha Alvi
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 40.5:
+        non_striker: Najiha Alvi
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 40.6:
+        non_striker: Najiha Alvi
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fatima Sana
+    - 41.1:
+        non_striker: Fatima Sana
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najiha Alvi
+    - 41.2:
+        non_striker: Najiha Alvi
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 41.3:
+        non_striker: Fatima Sana
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najiha Alvi
+    - 41.4:
+        non_striker: Najiha Alvi
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 41.5:
+        non_striker: Fatima Sana
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 41.6:
+        non_striker: Fatima Sana
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najiha Alvi
+    - 42.1:
+        non_striker: Fatima Sana
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 42.2:
+        non_striker: Fatima Sana
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najiha Alvi
+    - 42.3:
+        non_striker: Najiha Alvi
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 42.4:
+        non_striker: Fatima Sana
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 42.5:
+        non_striker: Fatima Sana
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 42.6:
+        non_striker: Fatima Sana
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najiha Alvi
+    - 43.1:
+        non_striker: Fatima Sana
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 43.2:
+        non_striker: Fatima Sana
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Najiha Alvi
+    - 43.3:
+        non_striker: Fatima Sana
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 43.4:
+        non_striker: Fatima Sana
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najiha Alvi
+    - 43.5:
+        non_striker: Najiha Alvi
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 43.6:
+        non_striker: Fatima Sana
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 44.1:
+        non_striker: Najiha Alvi
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 44.2:
+        non_striker: Najiha Alvi
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 44.3:
+        non_striker: Najiha Alvi
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 44.4:
+        non_striker: Fatima Sana
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 44.5:
+        non_striker: Fatima Sana
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najiha Alvi
+    - 44.6:
+        non_striker: Najiha Alvi
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fatima Sana
+    - 45.1:
+        non_striker: Fatima Sana
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najiha Alvi
+    - 45.2:
+        non_striker: Najiha Alvi
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 45.3:
+        non_striker: Fatima Sana
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Najiha Alvi
+    - 45.4:
+        non_striker: Fatima Sana
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Najiha Alvi
+    - 45.5:
+        non_striker: Fatima Sana
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najiha Alvi
+    - 45.6:
+        non_striker: Najiha Alvi
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fatima Sana
+    - 46.1:
+        non_striker: Fatima Sana
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+        wicket:
+          player_out: Najiha Alvi
+          fielders:
+          - MM Penfold
+          kind: caught
+    - 46.2:
+        non_striker: Fatima Sana
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umm-e-Hani
+    - 46.3:
+        non_striker: Fatima Sana
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umm-e-Hani
+        wicket:
+          player_out: Umm-e-Hani
+          kind: caught and bowled
+    - 46.4:
+        non_striker: Fatima Sana
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nashra Sandhu
+    - 46.5:
+        non_striker: Fatima Sana
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nashra Sandhu
+    - 46.6:
+        non_striker: Fatima Sana
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nashra Sandhu
+    - 47.1:
+        non_striker: Fatima Sana
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nashra Sandhu
+    - 47.2:
+        non_striker: Nashra Sandhu
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Fatima Sana
+    - 47.3:
+        non_striker: Nashra Sandhu
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+        wicket:
+          player_out: Nashra Sandhu
+          fielders:
+          - GE Plimmer
+          - LMM Tahuhu
+          kind: run out
+    - 47.4:
+        non_striker: Sadia Iqbal
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 47.5:
+        non_striker: Sadia Iqbal
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 47.6:
+        non_striker: Fatima Sana
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadia Iqbal
+    - 48.1:
+        non_striker: Fatima Sana
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sadia Iqbal
+    - 48.2:
+        non_striker: Fatima Sana
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadia Iqbal
+    - 48.3:
+        non_striker: Sadia Iqbal
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fatima Sana
+    - 48.4:
+        non_striker: Sadia Iqbal
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 48.5:
+        non_striker: Fatima Sana
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadia Iqbal
+    - 48.6:
+        non_striker: Sadia Iqbal
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 49.1:
+        non_striker: Sadia Iqbal
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 49.2:
+        non_striker: Fatima Sana
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadia Iqbal
+        wicket:
+          player_out: Sadia Iqbal
+          fielders:
+          - SW Bates
+          kind: caught
+    - 49.3:
+        non_striker: Fatima Sana
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ghulam Fatima
+    - 49.4:
+        non_striker: Ghulam Fatima
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fatima Sana
+    - 49.5:
+        non_striker: Ghulam Fatima
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 49.6:
+        non_striker: Fatima Sana
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ghulam Fatima
+        wicket:
+          player_out: Ghulam Fatima
+          fielders:
+          - B Bezuidenhout
+          kind: caught
+- 2nd innings:
+    team: New Zealand
+    deliveries:
+    - 0.1:
+        non_striker: AC Kerr
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SW Bates
+    - 0.2:
+        non_striker: SW Bates
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 0.3:
+        non_striker: SW Bates
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 0.4:
+        non_striker: SW Bates
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 0.5:
+        non_striker: SW Bates
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+        wicket:
+          player_out: AC Kerr
+          kind: bowled
+    - 0.6:
+        non_striker: SW Bates
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 1.1:
+        non_striker: SW Bates
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 1.2:
+        non_striker: SW Bates
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 1.3:
+        non_striker: SW Bates
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 1.4:
+        non_striker: SW Bates
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 1.5:
+        non_striker: SW Bates
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 1.6:
+        non_striker: SW Bates
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 2.1:
+        non_striker: SW Bates
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 2.2:
+        non_striker: SW Bates
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 2.3:
+        non_striker: SW Bates
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 2.4:
+        non_striker: SW Bates
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+        wicket:
+          player_out: SFM Devine
+          fielders:
+          - Nashra Sandhu
+          kind: caught
+    - 2.5:
+        non_striker: SW Bates
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 2.6:
+        non_striker: SW Bates
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 3.1:
+        non_striker: ML Green
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 3.2:
+        non_striker: SW Bates
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 3.3:
+        non_striker: ML Green
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 3.4:
+        non_striker: ML Green
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 3.5:
+        non_striker: ML Green
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 3.6:
+        non_striker: ML Green
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 4.1:
+        non_striker: SW Bates
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 4.2:
+        non_striker: SW Bates
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 4.3:
+        non_striker: SW Bates
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 4.4:
+        non_striker: SW Bates
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 4.5:
+        non_striker: ML Green
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 4.6:
+        non_striker: ML Green
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 5.1:
+        non_striker: ML Green
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 5.2:
+        non_striker: ML Green
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 5.3:
+        non_striker: ML Green
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 5.4:
+        non_striker: ML Green
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 5.5:
+        non_striker: ML Green
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 5.6:
+        non_striker: ML Green
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 6.1:
+        non_striker: ML Green
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 6.2:
+        non_striker: ML Green
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 6.3:
+        non_striker: ML Green
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 6.4:
+        non_striker: ML Green
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 6.5:
+        non_striker: ML Green
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 6.6:
+        non_striker: ML Green
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 7.1:
+        non_striker: SW Bates
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 7.2:
+        non_striker: SW Bates
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 7.3:
+        non_striker: SW Bates
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 7.4:
+        non_striker: SW Bates
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 7.5:
+        non_striker: SW Bates
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 7.6:
+        non_striker: SW Bates
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 8.1:
+        non_striker: ML Green
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 8.2:
+        non_striker: ML Green
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 8.3:
+        non_striker: ML Green
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 8.4:
+        non_striker: ML Green
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 8.5:
+        non_striker: ML Green
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 8.6:
+        non_striker: SW Bates
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 9.1:
+        non_striker: ML Green
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 9.2:
+        non_striker: ML Green
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 9.3:
+        non_striker: ML Green
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 9.4:
+        non_striker: ML Green
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 9.5:
+        non_striker: ML Green
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 9.6:
+        non_striker: ML Green
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 10.1:
+        non_striker: SW Bates
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 10.2:
+        non_striker: SW Bates
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 10.3:
+        non_striker: ML Green
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 10.4:
+        non_striker: SW Bates
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 10.5:
+        non_striker: ML Green
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 10.6:
+        non_striker: ML Green
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 11.1:
+        non_striker: SW Bates
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 11.2:
+        non_striker: ML Green
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 11.3:
+        non_striker: ML Green
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 11.4:
+        non_striker: SW Bates
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 11.5:
+        non_striker: SW Bates
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 11.6:
+        non_striker: ML Green
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 12.1:
+        non_striker: SW Bates
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 12.2:
+        non_striker: ML Green
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 12.3:
+        non_striker: SW Bates
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 12.4:
+        non_striker: ML Green
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 12.5:
+        non_striker: ML Green
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 12.6:
+        non_striker: ML Green
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 13.1:
+        non_striker: SW Bates
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Green
+    - 13.2:
+        non_striker: SW Bates
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 13.3:
+        non_striker: SW Bates
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 13.4:
+        non_striker: ML Green
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 13.5:
+        non_striker: ML Green
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 13.6:
+        non_striker: SW Bates
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 14.1:
+        non_striker: SW Bates
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 14.2:
+        non_striker: SW Bates
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 14.3:
+        non_striker: ML Green
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 14.4:
+        non_striker: SW Bates
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 14.5:
+        non_striker: SW Bates
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 14.6:
+        non_striker: SW Bates
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 15.1:
+        non_striker: SW Bates
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 15.2:
+        non_striker: SW Bates
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 15.3:
+        non_striker: SW Bates
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 15.4:
+        non_striker: SW Bates
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Green
+    - 15.5:
+        non_striker: SW Bates
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 15.6:
+        non_striker: ML Green
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 16.1:
+        non_striker: SW Bates
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 16.2:
+        non_striker: ML Green
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 16.3:
+        non_striker: SW Bates
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 16.4:
+        non_striker: ML Green
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 16.5:
+        non_striker: SW Bates
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Green
+    - 16.6:
+        non_striker: SW Bates
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 17.1:
+        non_striker: SW Bates
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 17.2:
+        non_striker: ML Green
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 17.3:
+        non_striker: SW Bates
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 17.4:
+        non_striker: ML Green
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 17.5:
+        non_striker: ML Green
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 17.6:
+        non_striker: SW Bates
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 18.1:
+        non_striker: ML Green
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 18.2:
+        non_striker: SW Bates
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 18.3:
+        non_striker: SW Bates
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 18.4:
+        non_striker: ML Green
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 18.5:
+        non_striker: SW Bates
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 18.6:
+        non_striker: ML Green
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 19.1:
+        non_striker: ML Green
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 19.2:
+        non_striker: SW Bates
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 19.3:
+        non_striker: SW Bates
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 19.4:
+        non_striker: ML Green
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 19.5:
+        non_striker: ML Green
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 19.6:
+        non_striker: SW Bates
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: ML Green
+    - 20.1:
+        non_striker: SW Bates
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 20.2:
+        non_striker: ML Green
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 20.3:
+        non_striker: SW Bates
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 20.4:
+        non_striker: ML Green
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 20.5:
+        non_striker: ML Green
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 20.6:
+        non_striker: SW Bates
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 21.1:
+        non_striker: SW Bates
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 21.2:
+        non_striker: ML Green
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 21.3:
+        non_striker: ML Green
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 21.4:
+        non_striker: SW Bates
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 21.5:
+        non_striker: SW Bates
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 21.6:
+        non_striker: ML Green
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 22.1:
+        non_striker: SW Bates
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 22.2:
+        non_striker: ML Green
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 22.3:
+        non_striker: ML Green
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 22.4:
+        non_striker: SW Bates
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 22.5:
+        non_striker: SW Bates
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 22.6:
+        non_striker: ML Green
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 23.1:
+        non_striker: ML Green
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 23.2:
+        non_striker: ML Green
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 23.3:
+        non_striker: SW Bates
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 23.4:
+        non_striker: ML Green
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 23.5:
+        non_striker: ML Green
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 23.6:
+        non_striker: SW Bates
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 24.1:
+        non_striker: SW Bates
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 24.2:
+        non_striker: ML Green
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 24.3:
+        non_striker: SW Bates
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 24.4:
+        non_striker: SW Bates
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 24.5:
+        non_striker: SW Bates
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 24.6:
+        non_striker: ML Green
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 25.1:
+        non_striker: ML Green
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 25.2:
+        non_striker: ML Green
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 25.3:
+        non_striker: SW Bates
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 25.4:
+        non_striker: ML Green
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 25.5:
+        non_striker: SW Bates
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 25.6:
+        non_striker: ML Green
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 26.1:
+        non_striker: ML Green
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 26.2:
+        non_striker: SW Bates
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 26.3:
+        non_striker: ML Green
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 26.4:
+        non_striker: ML Green
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 26.5:
+        non_striker: ML Green
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 26.6:
+        non_striker: ML Green
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 27.1:
+        non_striker: SW Bates
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 27.2:
+        non_striker: SW Bates
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 27.3:
+        non_striker: SW Bates
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 27.4:
+        non_striker: SW Bates
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 27.5:
+        non_striker: SW Bates
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 27.6:
+        non_striker: ML Green
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 28.1:
+        non_striker: ML Green
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 28.2:
+        non_striker: ML Green
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 28.3:
+        non_striker: SW Bates
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 28.4:
+        non_striker: SW Bates
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 28.5:
+        non_striker: SW Bates
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 28.6:
+        non_striker: ML Green
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 29.1:
+        non_striker: SW Bates
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 29.2:
+        non_striker: SW Bates
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 29.3:
+        non_striker: ML Green
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 29.4:
+        non_striker: SW Bates
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Green
+    - 29.5:
+        non_striker: SW Bates
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Green
+    - 29.6:
+        non_striker: SW Bates
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 30.1:
+        non_striker: SW Bates
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 30.2:
+        non_striker: ML Green
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 30.3:
+        non_striker: SW Bates
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 30.4:
+        non_striker: ML Green
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 30.5:
+        non_striker: SW Bates
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 30.6:
+        non_striker: SW Bates
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 31.1:
+        non_striker: ML Green
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 31.2:
+        non_striker: ML Green
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Bates
+    - 31.3:
+        non_striker: ML Green
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 31.4:
+        non_striker: SW Bates
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 31.5:
+        non_striker: ML Green
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+        wicket:
+          player_out: SW Bates
+          fielders:
+          - Aliya Riaz
+          kind: caught
+    - 31.6:
+        non_striker: ML Green
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 32.1:
+        non_striker: GE Plimmer
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 32.2:
+        non_striker: ML Green
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 32.3:
+        non_striker: GE Plimmer
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 32.4:
+        non_striker: GE Plimmer
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 32.5:
+        non_striker: ML Green
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 32.6:
+        non_striker: ML Green
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 33.1:
+        non_striker: GE Plimmer
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 33.2:
+        non_striker: GE Plimmer
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 33.3:
+        non_striker: ML Green
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 33.4:
+        non_striker: ML Green
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 33.5:
+        non_striker: GE Plimmer
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 33.6:
+        non_striker: ML Green
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 34.1:
+        non_striker: GE Plimmer
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 34.2:
+        non_striker: ML Green
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 34.3:
+        non_striker: GE Plimmer
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 34.4:
+        non_striker: GE Plimmer
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: ML Green
+    - 34.5:
+        non_striker: ML Green
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 34.6:
+        non_striker: ML Green
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 35.1:
+        non_striker: ML Green
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 35.2:
+        non_striker: ML Green
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 35.3:
+        non_striker: GE Plimmer
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 35.4:
+        non_striker: GE Plimmer
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+        wicket:
+          player_out: ML Green
+          fielders:
+          - Bismah Maroof
+          kind: caught
+    - 35.5:
+        non_striker: GE Plimmer
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 35.6:
+        non_striker: GE Plimmer
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IC Gaze
+    - 36.1:
+        non_striker: GE Plimmer
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IC Gaze
+    - 36.2:
+        non_striker: GE Plimmer
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 36.3:
+        non_striker: GE Plimmer
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 36.4:
+        non_striker: GE Plimmer
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 36.5:
+        non_striker: GE Plimmer
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IC Gaze
+    - 36.6:
+        non_striker: GE Plimmer
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IC Gaze
+    - 37.1:
+        non_striker: GE Plimmer
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+        wicket:
+          player_out: IC Gaze
+          kind: bowled
+    - 37.2:
+        non_striker: GE Plimmer
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Rowe
+    - 37.3:
+        non_striker: GE Plimmer
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Rowe
+    - 37.4:
+        non_striker: GE Plimmer
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Rowe
+    - 37.5:
+        non_striker: GE Plimmer
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Rowe
+    - 37.6:
+        non_striker: GE Plimmer
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Rowe
+    - 38.1:
+        non_striker: HM Rowe
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 38.2:
+        non_striker: GE Plimmer
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Rowe
+    - 38.3:
+        non_striker: GE Plimmer
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Rowe
+    - 38.4:
+        non_striker: HM Rowe
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 38.5:
+        non_striker: HM Rowe
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 38.6:
+        non_striker: HM Rowe
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 39.1:
+        non_striker: HM Rowe
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 39.2:
+        non_striker: GE Plimmer
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Rowe
+    - 39.3:
+        non_striker: GE Plimmer
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Rowe
+        wicket:
+          player_out: HM Rowe
+          fielders:
+          - Bismah Maroof
+          kind: caught
+    - 39.4:
+        non_striker: GE Plimmer
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Bezuidenhout
+    - 39.5:
+        non_striker: GE Plimmer
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Bezuidenhout
+    - 39.6:
+        non_striker: GE Plimmer
+        bowler: Ghulam Fatima
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Bezuidenhout
+    - 40.1:
+        non_striker: B Bezuidenhout
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GE Plimmer
+    - 40.2:
+        non_striker: B Bezuidenhout
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 40.3:
+        non_striker: B Bezuidenhout
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 40.4:
+        non_striker: B Bezuidenhout
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+        wicket:
+          player_out: GE Plimmer
+          kind: lbw
+    - 40.5:
+        non_striker: B Bezuidenhout
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMM Tahuhu
+    - 40.6:
+        non_striker: B Bezuidenhout
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LMM Tahuhu
+    - 41.1:
+        non_striker: LMM Tahuhu
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Bezuidenhout
+    - 41.2:
+        non_striker: LMM Tahuhu
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Bezuidenhout
+    - 41.3:
+        non_striker: B Bezuidenhout
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LMM Tahuhu
+    - 41.4:
+        non_striker: B Bezuidenhout
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LMM Tahuhu
+    - 41.5:
+        non_striker: B Bezuidenhout
+        bowler: Umm-e-Hani
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: LMM Tahuhu
+    - 41.6:
+        non_striker: LMM Tahuhu
+        bowler: Umm-e-Hani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Bezuidenhout
+    - 41.7:
+        non_striker: LMM Tahuhu
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Bezuidenhout
+    - 41.8:
+        non_striker: LMM Tahuhu
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Bezuidenhout
+        wicket:
+          player_out: B Bezuidenhout
+          kind: caught and bowled
+    - 42.1:
+        non_striker: MM Penfold
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMM Tahuhu
+    - 42.2:
+        non_striker: MM Penfold
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMM Tahuhu
+    - 42.3:
+        non_striker: LMM Tahuhu
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Penfold
+    - 42.4:
+        non_striker: LMM Tahuhu
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Penfold
+    - 42.5:
+        non_striker: LMM Tahuhu
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Penfold
+    - 42.6:
+        non_striker: LMM Tahuhu
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Penfold
+    - 43.1:
+        non_striker: MM Penfold
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMM Tahuhu
+    - 43.2:
+        non_striker: MM Penfold
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMM Tahuhu
+    - 43.3:
+        non_striker: LMM Tahuhu
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Penfold
+    - 43.4:
+        non_striker: LMM Tahuhu
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Penfold
+    - 43.5:
+        non_striker: MM Penfold
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMM Tahuhu
+    - 43.6:
+        non_striker: MM Penfold
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMM Tahuhu
+    - 44.1:
+        non_striker: MM Penfold
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LMM Tahuhu
+    - 44.2:
+        non_striker: MM Penfold
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMM Tahuhu
+    - 44.3:
+        non_striker: LMM Tahuhu
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Penfold
+    - 44.4:
+        non_striker: LMM Tahuhu
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Penfold
+    - 44.5:
+        non_striker: LMM Tahuhu
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Penfold
+    - 44.6:
+        non_striker: MM Penfold
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMM Tahuhu
+    - 45.1:
+        non_striker: MM Penfold
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMM Tahuhu
+    - 45.2:
+        non_striker: MM Penfold
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMM Tahuhu
+    - 45.3:
+        non_striker: MM Penfold
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMM Tahuhu
+    - 45.4:
+        non_striker: LMM Tahuhu
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Penfold
+        wicket:
+          player_out: MM Penfold
+          kind: bowled
+    - 45.5:
+        non_striker: LMM Tahuhu
+        bowler: Nashra Sandhu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FC Jonas
+    - 45.6:
+        non_striker: LMM Tahuhu
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Jonas
+    - 45.7:
+        non_striker: LMM Tahuhu
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Jonas
+    - 46.1:
+        non_striker: FC Jonas
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMM Tahuhu
+    - 46.2:
+        non_striker: FC Jonas
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LMM Tahuhu
+    - 46.3:
+        non_striker: FC Jonas
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMM Tahuhu
+    - 46.4:
+        non_striker: LMM Tahuhu
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Jonas
+    - 46.5:
+        non_striker: FC Jonas
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMM Tahuhu
+    - 46.6:
+        non_striker: FC Jonas
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMM Tahuhu
+    - 47.1:
+        non_striker: FC Jonas
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LMM Tahuhu
+    - 47.2:
+        non_striker: LMM Tahuhu
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Jonas
+    - 47.3:
+        non_striker: LMM Tahuhu
+        bowler: Umm-e-Hani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FC Jonas
+    - 47.4:
+        non_striker: LMM Tahuhu
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Jonas
+    - 47.5:
+        non_striker: LMM Tahuhu
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Jonas
+    - 47.6:
+        non_striker: LMM Tahuhu
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Jonas
+    - 47.7:
+        non_striker: FC Jonas
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMM Tahuhu
+    - 48.1:
+        non_striker: LMM Tahuhu
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FC Jonas
+    - 48.2:
+        non_striker: LMM Tahuhu
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: FC Jonas
+    - 48.3:
+        non_striker: FC Jonas
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMM Tahuhu
+    - 48.4:
+        non_striker: FC Jonas
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMM Tahuhu
+    - 48.5:
+        non_striker: FC Jonas
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMM Tahuhu
+    - 48.6:
+        non_striker: FC Jonas
+        bowler: Fatima Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LMM Tahuhu
